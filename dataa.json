@@ -1,0 +1,13 @@
+{
+    "doctor_name": "Dr. Marie Dupont",
+    "patient_name": "Jean Valjean",
+    "patient_age": 47,
+    "consultation_date": "2024/01/12",
+    "symptoms": ["toux persistante", "fièvre", "fatigue"],
+    "physical_examination_findings": ["rougeur de la gorge", "augmentation des ganglions lymphatiques"],
+    "diagnostic_hypotheses": ["infection virale", "pharyngite"],
+    "additional_tests": ["analyse sanguine", "radiographie pulmonaire"],
+    "treatment_plan": ["repos au lit", "hydratation", "antibiotiques (si nécessaire)"],
+    "follow_up_recommendations": ["contrôle dans 5 jours", "ajustement du traitement selon les résultats des tests"],
+    "conclusion": "Surveillance des symptômes et traitement symptomatique initial"
+}
